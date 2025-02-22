@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🗺️ I'm a GIS Analyst
-- 🖥️ Iwant to learn phyton for GIS analysis
+- 🖥️ Iwant to learn GIS programing
 
 
 <h2 align="left">I code with</h2>
