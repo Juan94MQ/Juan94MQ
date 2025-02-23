@@ -1,7 +1,4 @@
-## Hi there 👋
-
-- 🗺️ I'm a GIS Analyst
-- 🖥️ Iwant to learn GeoAI
+<p align="left">Environmental and Sanitary Engineer | Master’s in Analysis & Modeling of Environmental Systems, skilled in geospatial analysis (QGIS, ArcGIS, FRAGSTATS, Google Earth Engine, FME) and Python programming, with expertise in GIS, remote sensing, and landscape ecology.</p>
 
 ### My Interest
 
