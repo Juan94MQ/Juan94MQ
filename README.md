@@ -3,9 +3,6 @@
 - 🗺️ I'm a GIS Analyst
 - 🖥️ Iwant to learn GIS programing
 
-
-<h2 align="left">I code with</h2>
-
 ### My Interest
 
 <div align="left">
