@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🗺️ I'm a GIS Analyst
-- 🖥️ Iwant to learn GIS programing
+- 🖥️ Iwant to learn GeoAI
 
 ### My Interest
 
