@@ -1,4 +1,4 @@
-<p align="left">This profile was created with the intention of learning python and being able to monitor my progress.</p>
+<p align="left">Environmental and Sanitary Engineer | Master’s in Analysis & Modeling of Environmental Systems, skilled in geospatial analysis (QGIS, ArcGIS, FRAGSTATS, Google.This profile was created with the intention of learning python and being able to monitor my progress.</p>
 
 ### My Interest
 
